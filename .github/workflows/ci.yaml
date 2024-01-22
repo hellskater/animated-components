@@ -37,7 +37,7 @@ jobs:
         run: pnpm turbo build lint typecheck
 
       - name: Check formatting
-        run: pnpm format:check
+        run: pnpm format
 
       - name: Check workspaces
         run: pnpm manypkg check
