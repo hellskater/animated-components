@@ -1,1 +1,1 @@
-# react-animated-components
+# animated-components
