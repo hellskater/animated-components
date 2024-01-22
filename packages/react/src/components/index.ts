@@ -1,1 +1,1 @@
-export * from ".";
+export { default as useVercelNavbar } from "./vercel-navbar";
