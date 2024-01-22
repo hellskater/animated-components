@@ -9,7 +9,7 @@
     "hooks",
     "animation"
   ],
-  "repository": "https://github.com/hellskater/react-animated-components.git",
+  "repository": "https://github.com/hellskater/react-animated-components",
   "author": "K Srinivas Rao (https://twitter.com/Srinu53168)",
   "exports": {
     ".": {
